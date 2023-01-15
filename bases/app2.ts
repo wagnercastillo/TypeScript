@@ -34,7 +34,7 @@ let noHaceNadaTampoco: (n:number, t:string, b:boolean, a:string[])=> void;
 noHaceNadaTampoco = noHaceNada;
 
 
-function saludar():string{
+function saludar():void{
  
     console.log("Hola mundo!");
    
