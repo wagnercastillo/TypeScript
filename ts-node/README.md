@@ -1,12 +1,9 @@
-# Proyecto inicial - Curso de TypeScript
-
-* Lo primero que debemos de hacer después de descargar el código es ejecutar el comando:
+# Proyecto inicial 
 
 ```
 npm install
 ```
 Ese comando descargará todos los módulos de node necesarios para ejecutar el proyecto.
-
 
 * Cuando termine de instalar los node_modules, entonces podermos ejecutar el proyecto de con el siguiente comando
 
@@ -25,4 +22,4 @@ Por defecto, el puerto que configuré para este proyecto es el ```8081```, pero 
 Simplemente cambian el puerto por el que ustedes necesiten y listo. (lógicamente graban los cambios antes de ejecutar el ```npm start``` nuevamente)
 
 
-# curso-typescript
+
